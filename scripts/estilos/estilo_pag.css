@@ -1,0 +1,32 @@
+
+.titulo{
+	text-align: center;
+	background-color: #56070C;
+	color: white;
+}
+
+table{
+	width: 100%;
+}
+
+div.centrarTabla{
+	margin:auto;
+}
+
+table, th, td{
+	border: 2px solid green;
+	border-collapse: collapse;
+}
+
+td{
+	text-align: center;
+}
+
+tr.receso{
+	background-color: #56070C;
+	color: white;
+}
+
+td.ancho{
+	height: 100px;
+}
