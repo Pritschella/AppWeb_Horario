@@ -9,12 +9,8 @@ table{
 	width: 100%;
 }
 
-div.centrarTabla{
-	margin:0;
-}
-
 table, th, td{
-	border: 2px solid green;
+	border: 2px solid #56070C;
 	border-collapse: collapse;
 }
 
@@ -25,8 +21,14 @@ td{
 tr.receso{
 	background-color: #56070C;
 	color: white;
+	font-weight: bold;
 }
 
 tr.ancho{
 	height: 40px;
+}
+
+.cursiva{
+	font-style: italic;
+	color: gray;
 }
