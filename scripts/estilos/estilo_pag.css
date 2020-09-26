@@ -10,7 +10,7 @@ table{
 }
 
 div.centrarTabla{
-	margin:auto;
+	margin:0;
 }
 
 table, th, td{
@@ -27,6 +27,6 @@ tr.receso{
 	color: white;
 }
 
-td.ancho{
-	height: 100px;
+tr.ancho{
+	height: 40px;
 }
